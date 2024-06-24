@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Product-Review-System/static/css/main.020d507b.css",
+    "main.js": "/E-commerce-Product-Review-System/static/js/main.990c5161.js",
+    "index.html": "/E-commerce-Product-Review-System/index.html",
+    "main.020d507b.css.map": "/E-commerce-Product-Review-System/static/css/main.020d507b.css.map",
+    "main.990c5161.js.map": "/E-commerce-Product-Review-System/static/js/main.990c5161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020d507b.css",
+    "static/js/main.990c5161.js"
+  ]
+}
